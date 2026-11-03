@@ -16,14 +16,6 @@
 - 💻 Comfortable working in **Linux**, building scripts, and solving **CTF challenges**  
 - 🚀 Grinding daily to become a **pro cyber attacker & security researcher**
 
----
-
-## ⚡ Fun Stuff
-- 🎮 Gamer: Valorant & Rocket League  
-- 🌌 Stargazing & Nature Lover  
-- 🐦 Favorite animal: Falcon  
-
----
 
 ## 🎓 Certifications
 <div align="center">
